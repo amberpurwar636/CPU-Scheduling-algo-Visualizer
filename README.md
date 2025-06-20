@@ -76,7 +76,7 @@ Aging is used to prevent starvation by gradually increasing the priority of wait
 
 Processes should be listed in order of arrival. If two processes arrive at the same time, the one with lower priority is listed first.
 
-> For detailed examples, see the [testcases](https://github.com/nilimsankar123/CPU-Scheduling-Visualizer/tree/main/testcases) directory.
+> For detailed examples, see the [testcases](https://github.com/amberpurwar636/C-Scheduling-algo-Visualizer/tree/main/testcases) directory.
 
 # How to run in your machine
 1) just navigate to your folder and compile g++ -c main.cpp       # Compiles to main.o
