@@ -84,6 +84,6 @@ Processes should be listed in order of arrival. If two processes arrive at the s
 
 2) Now for ex-you want to try for 1st scheduling algorithm,then compile 
                                                                    Get-Content.\testcases\01a-input.txt |\lab4 
-3) you will see the output compare it with the output file for required scheduling algo..                                                                      
+3) you will see the output compare it with the output file for required scheduling algorithm.                                                             
 
 
